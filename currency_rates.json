@@ -1,0 +1,22 @@
+[
+  {
+    "currency": "USD",
+    "rate": 90.000094,
+    "timestamp": "2023-07-26 21:29:35"
+  },
+  {
+    "currency": "EUR",
+    "rate": 99.552671,
+    "timestamp": "2023-07-26 21:29:52"
+  },
+  {
+    "currency": "USD",
+    "rate": 90.00008,
+    "timestamp": "2023-07-26 21:30:09"
+  },
+  {
+    "currency": "EUR",
+    "rate": 99.552118,
+    "timestamp": "2023-07-26 21:30:25"
+  }
+]
